@@ -1,0 +1,9 @@
+[user]
+	name = Luka Cerrutti
+	email = lukacerrutti2002@gmail.com
+[core]
+	editor = nano
+[init]
+	defaultBranch = stable
+[credential]
+	helper = store

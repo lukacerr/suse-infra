@@ -1,0 +1,6 @@
+.db_data
+volumes/
+.git-credentials
+.env.*
+!*.example
+*.save
